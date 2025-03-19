@@ -1,10 +1,10 @@
 {
-    "url": "http://127.0.0.1/test.yaml",
+    "url": "https://raw.githubusercontent.com/XavierRoot/SwaggerXSS/refs/heads/main/test.yaml",
     "urls": [{
-        "url": "http://127.0.0.1/test.yaml",
+        "url": "https://raw.githubusercontent.com/XavierRoot/SwaggerXSS/refs/heads/main/test.yaml",
         "name": "Foo"
     },{
-        "url": "http1://127.0.0.1/test2.yaml",
+        "url": "https://raw.githubusercontent.com/XavierRoot/SwaggerXSS/refs/heads/main/test2.yaml",
         "name": "Foo2"
     }]
 }
